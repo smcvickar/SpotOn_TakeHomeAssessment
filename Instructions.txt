@@ -1,0 +1,30 @@
+Installation Instructions
+Prerequisites:
+-Must have Google Chrome installed
+-Must be using a Windows machine
+
+Install Python:
+1. Navigate to https://www.python.org/downloads/
+2. Download appropriate Windows installer for latest Python version
+3. Launch installer
+4. Ensure "Add python.exe to PATH" is checked
+5. Click "Install Now"
+6. If prompted, click "Yes" on the "Do you want to allow this app to make changes to your device?" message
+7. Wait for install to finish
+
+Install Selenium:
+1. Launch Command Prompt
+2. Type "pip install selenium" then press Enter
+3. Wait for install to finish
+
+Install Webdriver Manager:
+1. Launch Command Prompt
+2. Type "pip install webdriver-manager" then press Enter
+
+
+
+Execution Instructions:
+1. Launch Command Prompt
+2. Execute command "cd <PATH TO SeanMcVickar_SpotOnTakeHomeAssessment folder>"
+3. Execute command "python tests.py"
+4. Wait for test execution to finish
