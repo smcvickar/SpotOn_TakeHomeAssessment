@@ -25,6 +25,6 @@ Install Webdriver Manager:
 
 Execution Instructions:
 1. Launch Command Prompt
-2. Execute command "cd <PATH TO SeanMcVickar_SpotOnTakeHomeAssessment folder>"
+2. Execute command "cd <PATH TO SpotOn_TakeHomeAssessment-main folder>"
 3. Execute command "python tests.py"
 4. Wait for test execution to finish
