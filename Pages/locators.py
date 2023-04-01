@@ -20,6 +20,8 @@ class DynamicLocators(object):
     BUTTON_REMOVE = "//button[normalize-space()='Remove']"  # XPATH
     CB_BOX = "//input[@type='checkbox']"  # XPATH
     CB_TEXT = "//div[@id='checkbox']"  # XPATH
+    LOADING_ENABLE_DISABLE = "//div[@class='example']//div[1]//img[1]"  # ID PATH //img[@src='/img/ajax-loader.gif']
+    LOADING_REMOVE_ADD = "//form[@id='checkbox-example']//img"  # XPATH
     LABEL_RESPONSE = "//p[@id='message']"  # XPATH
     TEXTBOX_TEXT = "//input[@type='text']"  # XPATH
 
